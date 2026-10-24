@@ -28,9 +28,3 @@
 * **Verworven Credential (Level 1):** 6y2kwnwK6grgvwvpvLaa2T1cpFEKOhNR  
 * **Status:** Succesvol afgerond en gedocumenteerd.
 
-Klaar voor de volgende uitdaging? Pak je terminal erbij, log uit met exit en log in op **Level 1** met:
-
-Bash  
-ssh bandit1@bandit.labs.overthewire.org \-p 2220
-
-*(En vergeet niet de valstrik uit het vorige level te omzeilen als je daar het bestand met de naam \- tegenkomt: gebruik cat ./-\!)* Laat maar weten als je de vlag te pakken hebt\!
